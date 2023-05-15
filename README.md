@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **backend with C#**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **any company**
 
