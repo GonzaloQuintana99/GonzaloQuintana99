@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Python with Django**
+- 🌱 I’m currently learning **Python with Django** and **English**
 
 - 👯 I’m looking to collaborate on **any company**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GonzaloQuintana99/](https://github.com/GonzaloQuintana99/)
 
-- 💬 Ask me about **HTML5, CSS, Javascript, React JS, React Native**
+- 💬 Ask me about **HTML5, CSS, Javascript, React JS, Python and Django**
 
 - 📫 How to reach me **quintanagonzalodaniel@gmail.com**
 
